@@ -4,5 +4,9 @@ img {
 body {
     text-align: center;
     font-family: "comic sans MS";
-    background-color: blue ;
+    background-color: #191970 ;
+    
+}
+h2 {
+    color: red;
 }
